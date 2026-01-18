@@ -56,7 +56,6 @@ ML-Lab/
 1. Clone the repository
    ```bash
    git clone https://github.com/Abdulbasith0512/ML-LABS-
-   Open the notebooks using Jupyter Notebook or Google Colab
 
 2. Open the notebooks using Jupyter Notebook or Google Colab
 3. Run each cell sequentially
